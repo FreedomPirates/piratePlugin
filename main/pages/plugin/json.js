@@ -9,7 +9,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -18,7 +18,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/farbtastic.jpg',
         img_size: '208,199',
-        article_href: '/my_web/main/pages/plugin/farbtastic/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/farbtastic/index.html'
     },
     {
         author: 'ghnice',
@@ -27,7 +27,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -36,7 +36,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '',
         img_size: '',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -45,7 +45,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '',
         img_size: '',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -54,7 +54,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -63,7 +63,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '',
         img_size: '',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     }, {
         author: 'ghnice',
         title: 'CSS3的相关属性',
@@ -71,7 +71,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -80,7 +80,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -89,7 +89,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -98,7 +98,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '',
         img_size: '',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -107,7 +107,7 @@ var list = [
         create_time: '创建时间',
         title_img_href: '',
         img_size: '',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     },
     {
         author: 'ghnice',
@@ -116,6 +116,6 @@ var list = [
         create_time: '创建时间',
         title_img_href: '../img/plugin/css3.jpg',
         img_size: '728,543',
-        article_href: '/my_web/main/pages/plugin/css3/index.html'
+        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     }
 ];
