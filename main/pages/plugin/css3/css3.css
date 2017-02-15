@@ -1,0 +1,11 @@
+.txt-overflow .txt {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical; }
+
+.module {
+  color: #7f7f7f; }
+
+/*# sourceMappingURL=css3.css.map */
