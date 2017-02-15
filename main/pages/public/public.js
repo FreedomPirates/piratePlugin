@@ -13,7 +13,7 @@ jQuery(function ($) {
                 '<div class="navbar-toggle"> ' +
                 '<span class="icon icon-tubiaozhizuomoban-copy"></span> ' +
                 '</div> ' +
-                '<a class="navbar-brand" href="/">NICE</a> ' +
+                '<a class="navbar-brand" href="/">PIRATE</a> ' +
                 '<div class="float-sm-right navbar-mask"> ' +
                 '<ul class="navbar-collapse  navbar-nav "> ' +
                 '<li class="nav-link"><a href="../index/index.html">home</a></li> ' +
