@@ -108,14 +108,5 @@ var list = [
         title_img_href: '',
         img_size: '',
         article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
-    },
-    {
-        author: 'ghnice',
-        title: 'CSS3的相关属性',
-        description: '一些常用效果',
-        create_time: '创建时间',
-        title_img_href: '../img/plugin/css3.jpg',
-        img_size: '728,543',
-        article_href: '/piratePlugin/main/pages/plugin/css3/index.html'
     }
 ];
