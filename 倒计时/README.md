@@ -2,7 +2,7 @@
 
 ### 使用方法
 
-    ```JavaScript
+    ```javascript
     const downTime = new countDown();
     downTime.start({
                 cdTime: Math.floor(distance_time / 1000),
